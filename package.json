@@ -1,0 +1,8 @@
+{
+  "name": "bot-irc",
+  "version": "1.0.0",
+  "dependencies": {
+    "cross-env": "5.0.5",
+    "irc": "^0.5.2"
+  }
+}
